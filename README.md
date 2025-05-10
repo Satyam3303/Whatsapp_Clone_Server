@@ -3,6 +3,12 @@
 This is the backend API server for the **Whatsapp Clone** built with **Node.js**, **Express**, and **MongoDB (Mongoose)**. It features a robust, secure, and well-structured API with support for real-time messaging, file uploads, and enhanced security practices.
 
 ---
+## Note
+
+This Build Requires The Socket Setup and the Frontend Setup as well.
+ - Frontend Setup ->
+ - Socket Setup -> https://github.com/Satyam3303/Whatsapp_Clone_Socket
+---
 
 ## 🚀 Features
 
