@@ -6,7 +6,7 @@ This is the backend API server for the **Whatsapp Clone** built with **Node.js**
 ## Note
 
 This Build Requires The Socket Setup and the Frontend Setup as well.
- - Frontend Setup ->
+ - Frontend Setup -> https://github.com/Satyam3303/Whatsapp_Clone_Frontend
  - Socket Setup -> https://github.com/Satyam3303/Whatsapp_Clone_Socket
 ---
 
