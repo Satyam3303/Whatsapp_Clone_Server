@@ -5,7 +5,7 @@ import { loggerMessages } from '../messages/index.js'
 // Enhanced rate limiter configuration: More restrictive for critical routes
 const rateLimiter = rateLimit({
   windowMs: 15 * 60 * 1000,
-  max: 50,
+  max: 5000,
   message: loggerMessages.warn.TOO_MANY_REQUEST,
   standardHeaders: true, 
   legacyHeaders: false,
